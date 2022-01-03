@@ -1,9 +1,14 @@
-# 📄 - Mig
-Hey! - Jeg holder min privatinformation privat her.
+### Hi, Fr3ckz here! 👋
 
-# 💻 - Github
-På min github, kommer jeg til og udgive mine FiveM scripts, som jeg laver efterhånden, flere ting udelukker jeg ikke kommer.
 
-# 📡 - Kontakt
-Du kan altid kontake mig på min discord:
-Discord: Fr3ckz#5839
+- 🔭 Lua Developer
+
+### 📺 Latest Projects
+
+- [Crypto Simulator](#)
+- [Stop The Resellers](https://stopthersellers.com)
+- [TicketCord](https://ticketcord.com)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr3ckz&theme=dark&show_icons=true)
+![Breze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr3ckz&theme=dark&show_icons=true)
