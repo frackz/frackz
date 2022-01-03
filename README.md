@@ -5,9 +5,7 @@
 
 ### 📺 Latest Projects
 
-- [Crypto Simulator](#)
-- [Stop The Resellers](https://stopthersellers.com)
-- [TicketCord](https://ticketcord.com)
+- [ADV Obby](https://www.roblox.com/games/7943312169/ADV-Obby-NEW-UPDATE)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr3ckz&theme=dark&show_icons=true)
