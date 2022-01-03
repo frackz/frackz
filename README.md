@@ -1,7 +1,7 @@
 ### Hi, Fr3ckz here! 👋
 
 
-- 🔭 Lua Developer
+- 🔭 Lua & Roblox Developer
 
 ### 📺 Latest Projects
 
