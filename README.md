@@ -1,4 +1,5 @@
 # Hi, i'm frackz
+[![Visitors](https://komarev.com/ghpvc/?username=frackz&color=037F50&style=for-the-badge)](https://github.com/frackz)
 I mostly develop in [NodeJS](https://nodejs.org/en/) or [GoLang](https://go.dev/).
 I really dont have finished projects, yet - but you can see my half finished projects here lol
 
@@ -11,8 +12,3 @@ I really dont have finished projects, yet - but you can see my half finished pro
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <br />
 <br />
-
-### 📺 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfrede&theme=dark&show_icons=true)
-![DKFrede's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkfrede&theme=dark&show_icons=true)
