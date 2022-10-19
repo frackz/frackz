@@ -2,6 +2,7 @@
 [![Visitors](https://komarev.com/ghpvc/?username=frackz&color=037F50&style=for-the-badge)](https://github.com/frackz)
 
 I mostly develop in [NodeJS](https://nodejs.org/en/) or [GoLang](https://go.dev/).
+
 I really dont have finished projects, yet - but you can see my half finished projects here lol
 
 ### Languages
